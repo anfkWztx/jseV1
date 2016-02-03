@@ -1,4 +1,5 @@
 <script type="text/javascript">
+//https://raw.githubusercontent.com/anfkWztx/jseV1/master/hidedivs
 window.onload = function(){
   var md = ['DAILY_BOX', 'FB_BOX', 'BILLBOARD', 'RELATED_BOX'];
   var i = 0;
