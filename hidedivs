@@ -1,0 +1,10 @@
+<script type="text/javascript">
+window.onload = function(){
+  var md = ['DAILY_BOX', 'FB_BOX', 'BILLBOARD', 'RELATED_BOX'];
+  var i = 0;
+  while (md[i]) {
+    document.getElementById(md[i]).innerHTML = '';
+    i++;
+  }
+}
+</script>
